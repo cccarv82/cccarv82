@@ -7,7 +7,7 @@
 </div>
   
 <div style="display: inline_block" align="center"><br>
-  <img align="center" alt="Rafa-Js" height="30" width="30" src="https://pbs.twimg.com/profile_images/932695487932784640/QdWJdB_g_bigger.jpg">
+  <img align="center" alt="Rafa-Js" height="40" width="40" src="https://github.com/robotframework/visual-identity/blob/master/logo/robot-framework-white.png?raw=true">
   <img align="center" alt="Rafa-Ts" height="30" width="30" src="https://cdn.worldvectorlogo.com/logos/appium.svg">
   <img align="center" alt="Rafa-React" height="30" width="30" src="https://pics.freeicons.io/uploads/icons/png/3556671901536211770-512.png">
   <img align="center" alt="Rafa-HTML" height="40" width="40" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_cucumber_icon_130657.png">
