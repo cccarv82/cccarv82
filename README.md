@@ -8,7 +8,7 @@
   
 <div style="display: inline_block" align="center"><br>
 
-  <img align="center" height="30" width="40" src="https://playwright.dev/img/playwright-logo.svg" />  
+  <img align="center" height="40" width="50" src="https://playwright.dev/img/playwright-logo.svg" />  
   <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
   <img align="center" alt="Rafa-Js" height="40" width="40" src="https://github.com/robotframework/visual-identity/blob/master/logo/robot-framework-white.png?raw=true">
   <img align="center" alt="Rafa-Ts" height="30" width="30" src="https://cdn.worldvectorlogo.com/logos/appium.svg">
