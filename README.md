@@ -1,4 +1,4 @@
-### Hi 👋 I'm Carlos. I'm an passionate about Test Automation!
+### Hi 👋 I'm Carlos. I'm passionate about Test Automation!
 
 <div align="center">
   <a href="https://www.linkedin.com/in/cccarv/">
